@@ -43,7 +43,7 @@ h1 {
   gap: 10px;
 }
 
-.btn {
+.button {
   cursor: pointer;
   width: 100px;
   margin: 10px;
@@ -54,18 +54,18 @@ h1 {
   border-width: 3px;
 }
 
-.btn:hover {
+.button:hover {
   background-image: linear-gradient(#ffcc4c, #f89808);
 }
 
-.large-btn {
+.large-button {
   width: 80%;
   font-size: 1.2rem;
   align-self: center;
   justify-self: center;
 }
 
-.close-task-form-btn {
+.close-task-button {
   background: none;
   border: none;
   cursor: pointer;
